@@ -1,5 +1,17 @@
-# No-show-Medical-Appointments
-Final project in Udacity's Intro to Data Analysis course part of Data Analyst Nanodegree.
-### Research question: What features (columns) are important to predict whether a patient is not going to show up to their scheduled medical appointment?
+# No-Show Medical Appointments 
 
-This analysis contains EDA, data wrangling, and hyperparameter tuning of a GBM model. It is all done in Python using sklearn, matplotlib, pandas and numpy.
+This project uses NumPy, pandas, and Matplotlib to explore a data set of Brazilian doctor appointments and corresponding no-show rate. 
+
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+### Prerequisites
+
+You will need an installation of Python and the following libraries:
+* pandas
+* NumPy
+* Matplotlib
+* csv
+
+I recommend installing Anaconda, which comes with all of the necessary packages, as well as IPython notebook. 
